@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Atomic Commit Masterclass
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Hugo
+    name-particle: B
+    family-names: de Paula
+    name-suffix: Prof
+    email: hugo@pucminas.br
+    affiliation: PUC Minas
+    orcid: 'https://orcid.org/0000-0002-6193-3205'
+repository-code: 'https://github.com/hugodepaula/atomic-commits-masterclass'
+abstract: >-
+  Este repositório contém o conteúdo da aula sobre boas
+  práticas para realização de commits atômicos.
+keywords:
+  - commits atômicos
+  - rastreabilidade
+  - princípio da responsabilidade única
+date-released: '2024-08-30'
