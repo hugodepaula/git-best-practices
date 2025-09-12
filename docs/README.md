@@ -1,9 +1,9 @@
-# Commits Atômicos
+# Documentação
 
-## O que são commits atômicos
+A documentação da Taguia é um recurso essencial para entender e utilizar nossas soluções de rastreamento e localização. Aqui você encontrará informações detalhadas sobre nossas ferramentas, processos e melhores práticas.
 
-## Vantagens dos commits atômicos
+## Estrutura da Documentação
 
-## Boas práticas para elaboração de commits atômicos
-
-## Exemplos de commits atômicos
+- [Atomic Commits](./atomic-commits/README.md)
+- [Conventional Commits](./conventional-commits/README.md)
+- [Semantic Versioning](./semantic-versioning/README.md)
