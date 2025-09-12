@@ -1,0 +1,6 @@
+{
+    "conventionalCommits.scopes": [
+        "semver",
+        "conventional"
+    ]
+}
