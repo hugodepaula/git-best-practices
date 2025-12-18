@@ -11,6 +11,8 @@ Os **Conventional Commits** são uma convenção para estruturar mensagens de co
 3. **Descreva a Alteração**: Forneça uma breve descrição da mudança.
 4. **Inclua Corpo e Rodapés (Opcional)**: Adicione detalhes adicionais ou informações como `BREAKING CHANGE`.
 
+Para Detalhes sobre formatos de mensagens de comits e listas de exemplos, veja [Guia Rápido de Padrões de Commits Convencionais](quick-guide.md).
+
 > [!TIP]
 > **[git-conventional-commits](https://github.com/qoomon/git-conventional-commits)** é uma ferramenta útil para validar mensagens de commit e garantir que estejam em conformidade com os padrões convencionais, determinar versões e gerar Changelogs.
 
