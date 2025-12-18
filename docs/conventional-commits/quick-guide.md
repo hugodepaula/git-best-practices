@@ -49,27 +49,27 @@ São opcionais, mas ajudam a identificar rapidamente o tipo de mudança. Não ex
 Abaixo estão alguns exemplos de emojis e seus significados:
 
 | Emoji | Tag                    | Descrição                                           |
-|-------|------------------------|-----------------------------------------------------|
-| 🎉   | :tada:                 | Cria um novo projeto ou repositório                 |
-| ✨   | :sparkles:             | Adiciona uma nova funcionalidade                    |
-| 🐛   | :bug:                  | Corrige um bug                                      |
-| ⚡️   | :zap:                  | Melhora a performance do código                     |
-| ♻️   | :recycle:              | Refatoração de código                               |
-| 📝   | :memo:                 | Adiciona ou atualiza documentação                   |
-| 💥   | :boom:                 | Introduz mudanças que quebram compatibilidade       |
-| 🔥   | :fire:                 | Remove código ou arquivos não utilizados            |
-| 🚑️   | :ambulance:            | Corrige um erro crítico                             |
-| ✅   | :white_check_mark:     | Adiciona ou corrige testes existentes               |
-| 💡   | :bulb:                 | Adiciona comentários                                |
-| 🎨   | :art:                  | Melhora a estrutura ou formata o código             |
-| 💄   | :lipstick:             | Melhora a aparência ou estilo do código             |
-| 🚀   | :rocket:               | Realiza o deploy ou publicação de release           |
-| 🔒   | :lock:                 | Corrige um problema de segurança                    |
-| 🚧   | :construction:         | Trabalho em andamento                               |
-| 🔧   | :wrench:               | Altera arquivos de configuração                     |
-| 🛠️   | :hammer_and_wrench:    | Mudanças relacionadas a processos de build          |
-| 👷   | :construction_worker:  | Atualizações no sistema de integração contínua      |
-| 🌐   | :globe_with_meridians: | Internacionalização e localização                   |
+|------|-------------------------|-----------------------------------------------------|
+| 🎉   | `:tada:`                 | Cria um novo projeto ou repositório                 |
+| ✨   | `:sparkles:`             | Adiciona uma nova funcionalidade                    |
+| 🐛   | `:bug:`                  | Corrige um bug                                      |
+| ⚡️   | `:zap:`                  | Melhora a performance do código                     |
+| ♻️   | `:recycle:`              | Refatoração de código                               |
+| 📝   | `:memo:`                 | Adiciona ou atualiza documentação                   |
+| 💥   | `:boom:`                 | Introduz mudanças que quebram compatibilidade       |
+| 🔥   | `:fire:`                 | Remove código ou arquivos não utilizados            |
+| 🚑️   | `:ambulance:`            | Corrige um erro crítico                             |
+| ✅   | `:white_check_mark:`     | Adiciona ou corrige testes existentes               |
+| 💡   | `:bulb:`                 | Adiciona comentários                                |
+| 🎨   | `:art:`                  | Melhora a estrutura ou formata o código             |
+| 💄   | `:lipstick:`             | Melhora a aparência ou estilo do código             |
+| 🚀   | `:rocket:`               | Realiza o deploy ou publicação de release           |
+| 🔒   | `:lock:`                 | Corrige um problema de segurança                    |
+| 🚧   | `:construction:`         | Trabalho em andamento                               |
+| 🔧   | `:wrench:`               | Altera arquivos de configuração                     |
+| 🛠️   | `:hammer_and_wrench:`    | Mudanças relacionadas a processos de build          |
+| 👷   | `:construction_worker:`  | Atualizações no sistema de integração contínua      |
+| 🌐   | `:globe_with_meridians:` | Internacionalização e localização                   |
 
 ## Exemplos de Commits Convencionais
 
